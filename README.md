@@ -15,3 +15,13 @@ Thus we see another benefit of A3C as it addresses this problem by introducing a
 We extend the A3C by replacing the advantage estimator used in (Minh, 2016) by the Generalized Advantage Estimate (GAE) as proposed by (Schulman, 2015), and evaluate the algorithm on a number of environments.
 
 See our paper for more details.
+
+The work presented in this repository is to be considered open source under the MIT License. If you found this code useful in your research, then please cite
+
+```
+@misc{hansen-ebert,
+  title={Distributed Deep Reinforcement Learning with Asynchronous Advantage Actor-Critic using Generalized Advantage Estimation},
+  author={Ebert, Peter and Hansen, Nicklas},
+  year={2019}
+}
+```
