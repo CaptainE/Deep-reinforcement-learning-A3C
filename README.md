@@ -1,6 +1,5 @@
 # Deep-reinforcement-learning-A3C
-Repository containing material regarding a modified version of the Berkeley Deep reinforcement learning course 
-and a PyTorch implementation of Asynchronous Advantage Actor-Critic (A3C) using Generalized Advantage Estimation  as a project
+Repository containing material regarding a modified version of the Berkeley Deep reinforcement learning course, that is it only contain some of the assignments for CS294-112, and a PyTorch implementation of Asynchronous Advantage Actor-Critic (A3C) using Generalized Advantage Estimation  as a project
 
 Here only solutions material for homework 1, 4 and 5a is provided in Tensorflow.
 
